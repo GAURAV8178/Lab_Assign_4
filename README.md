@@ -1,4 +1,4 @@
-# Lab_Assign_4# LAB_ASSIGN-_JAVA_4
+# Lab_Assign_4
 
 📘 Student Record System (Java)
 
